@@ -1,4 +1,5 @@
-This year the VIP Cup competition @ICIP2022 will be focused on distinguishing real versus AI-based content in images.
+This year the VIP Cup competition @ICIP2022 is organized by University Federico II of Naples and NVIDIA and
+the aim is to distinguish real versus AI-based content in images.
 Teams are requested to design a strategy for synthetic image detection by relying on image processing and machine learning techniques.
 
 ### Background
@@ -66,7 +67,20 @@ The three teams with highest performance in the open competition will be selecte
 
 ### Timeline
 
-Coming soon
+* 25 July, 2022: Release of Training-Set
+* 8 August, 2022: Deadline of first submission
+* 15 August, 2022: Publication of the ranking of the first submission on testset1 
+* 29 August, 2022: Deadline of second submission
+* 5 Sectember, 2022: Publication of the ranking of the second submission on testset1
+* 8 Sectember, 2022:  Publication of the ranking of the first two submissions on testset1
+* 19 Sectember, 2022: Deadline of third submission
+* 26 Sectember, 2022: Final ranking on testset1 and testset2
+
+#### Additional Information
+
+General information and resources are [available on Piazza](https://piazza.com/configure-classes/summer2022/vipcup2022).
+
+To set up a free account, use the access code "vipcup2022" to join as a student the "VIPCUP 2022: IEEE Video and Image Processing Cup" class.
 
 ### Organizing Committee
 
