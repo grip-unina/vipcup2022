@@ -43,7 +43,7 @@ and an invitation-only final competition. Eligible teams must submit their entri
 The three teams with the highest performance will be selected by September 26, 2022 and invited to join the final competition. 
 The final competition will be judged at ICIP 2022, which will be held on October 16-19, 2022.
 
-#### Open Competition - Testset 1
+#### Open Competition: Test-set 1
 Part 1 of the open competition is designed to give teams a simplified version of the problem at hand to become familiar with the task. 
 Participants will be provided with a labeled training dataset of real and synthetic images. 
 Synthetic images can be fully or partially synthetic. 
@@ -51,7 +51,7 @@ Images will undergo JPEG compression at different quality levels and resizing pr
 Teams will be provided with PYTHON scripts to apply these operations to the training dataset. 
 Teams are requested to provide the executable code to the organizers in order to test the algorithms on the evaluation dataset.
 
-#### Open Competition - Testset 2
+#### Open Competition: Test-set 2
 Part 2 of the competition is designed to address a more challenging task: synthetic image detection on unseen models, 
 i.e. synthetic data generated using architectures not present in training. The task remains the same as for Part 1. 
 Teams are requested to provide the executable code to the organizers in order to test the algorithms on the evaluation dataset.
@@ -78,12 +78,12 @@ The three teams with highest performance in the open competition will be selecte
 
 * 25 July, 2022: Release of data and submission format
 * 8 August, 2022: First submission deadline
-* 15 August, 2022: Publication of the ranking of the first submission on Testset 1 
+* 15 August, 2022: Publication of the ranking of the first submission on Test-set 1 
 * 29 August, 2022: Second submission deadline
-* 8 September, 2022: Publication of the ranking of the first two submissions on Testset 1 and Testset 2
+* 8 September, 2022: Publication of the ranking of the first two submissions on Test-set 1 and Test-set 2
 * 15 September, 2022: Team registration deadline
 * 19 September, 2022: Third submission deadline
-* 26 September, 2022: Final ranking on both Testsets
+* 26 September, 2022: Final ranking on both Test-sets
 
 #### Additional Information
 
