@@ -77,14 +77,15 @@ The three teams with highest performance in the open competition will be selecte
 
 ### Timeline
 
-* 25 July, 2022: Release of data and submission format
+* 25 July, 2022: Release of data and submission information
 * 8 August, 2022: First submission deadline
-* 15 August, 2022: Ranking publication of the first submission on Test-set 1 
-* 29 August, 2022: Second submission deadline
-* 8 September, 2022: Ranking publication the first and second submissions on Test-set 1 and Test-set 2
-* 15 September, 2022: Team registration deadline
-* 19 September, 2022: Third submission deadline
-* 26 September, 2022: Final ranking on both Test-sets
+* 13 August, 2022: Ranking publication of the first submission on Test-set 1 
+* 22 August, 2022: Second submission deadline
+* 27 August, 2022: Ranking publication the first and second submissions on both Test-sets
+* 1 September, 2022: Team registration deadline
+* 5 September, 2022: Third submission deadline
+* 10 September, 2022: Finalists announced
+
 
 #### Additional Information
 
