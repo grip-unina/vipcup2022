@@ -1,5 +1,5 @@
-This year the VIP Cup competition @ICIP2022 is organized by University Federico II of Naples and NVIDIA and
-the aim is to distinguish real versus AI-based content in images.
+This year the VIP Cup competition @ICIP2022 is organized by University Federico II of Naples and NVIDIA.
+The aim is to distinguish real versus AI-based content in images.
 Teams are requested to design a strategy for synthetic image detection by relying on image processing and machine learning techniques.
 
 ### Background
@@ -58,6 +58,7 @@ Teams are requested to provide the executable code to the organizers in order to
 The three highest scoring teams from the open competition will be selected
 and they can provide an additional submission.
 
+``More information on training set and test sets will be available on 25 June on the page web and on the Piazza class.``
 
 ### Challenge Evaluation Criteria
 Results will be judged for Part 1 and Part 2 by means of balanced accuracy for the detection task.
@@ -65,8 +66,6 @@ The final ranking score will be the weighted average between the accuracy obtain
 
      Score = ( 0.7 × Accuracy_Part_1) + ( 0.3 × Accuracy_Part_2)
 
-
-``More information on training set and test sets will be available on 25 June on the page web and on the Piazza class.``
 
 ### Prize for Finalists
 
@@ -98,11 +97,11 @@ The challenge is organized as a joint effort between the Image Processing Resear
 The GRIP team is represented by Prof. Luisa Verdoliva (Associate Professor), Dr. Davide Cozzolino (Assistant Professor), 
 Fabrizio Guillaro (Ph.D. Student) and Riccardo Corvi (Research Fellow). NVIDIA is represented by Dr. Koki Nagano.
 
-#### Sponsor
+### Sponsor
 
 This competition is sponsored by the IEEE Signal Processing Society and SPS Information Forensics and Security Committee
 
-### Bibliography
+#### Bibliography
 [1] S. Nightingale, S. Agarwal, E. Harkonen, J. Lehtinen, and H. Farid, “Synthetic faces: how perceptually convincing are they?” in Vision Sciences Society (VSS) meeting, 2021.
 
 [2] F. Lago, C. Pasquini, R. Boehme, H. Dumont, V. Goffaux, and G. Boato, “More Real than Real: A Study on Human Visual Perception of Synthetic Faces,” IEEE Signal Processing Magazine, 2021.
