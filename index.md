@@ -29,8 +29,8 @@ and the detector should work well also in this condition.
 
 Competitors are asked to work in the challenging scenario where it is not known the method used to generate synthetic data.
 More specifically the test data comprises: 
-* both fully synthetic images and partially manipulated ones, 
-* generative models that include not only GANs, but also more recent diffusion-based models. 
+i) both fully synthetic images and partially manipulated ones, 
+ii) generative models that include not only GANs, but also more recent diffusion-based models. 
 Being able to discriminate synthetic images, fully and partially synthetic, 
 vs pristine ones can represent a step forward to the advancement of forensics tools.
 
@@ -39,27 +39,24 @@ and an invitation-only final competition. Eligible teams must submit their entri
 The three teams with the highest performance will be selected by September 26, 2022 and invited to join the final competition. 
 The final competition will be judged at ICIP 2022, which will be held on October 16-19, 2022.
 
-#### Open Competition - Testset 1
+Open Competition - Testset 1
 Part 1 of the open competition is designed to give teams a simplified version of the problem at hand to become familiar with the task. 
 Participants will be provided with a labeled training dataset of real and synthetic images. 
-This dataset will consist of 2000 real images, 2000 synthetic images generated using different models. 
 Synthetic images can be fully or partially synthetic. 
 Images will undergo JPEG compression at different quality levels and resizing prior to compression.  
 Teams will be provided with PYTHON scripts to apply these operations to the training dataset. 
 Teams are requested to provide the executable code to the organizers in order to test the algorithms on the evaluation dataset.
 
-#### Open Competition - Testset 2
+Open Competition - Testset 2
 Part 2 of the competition is designed to address a more challenging task: synthetic image detection on unseen models, 
 i.e. synthetic data generated using architectures not present in training. The task remains the same as for Part 1. 
 Teams are requested to provide the executable code to the organizers in order to test the algorithms on the evaluation dataset.
 
-#### Final Competition
-The three highest scoring teams from the open competition will be selected, 
-and an additional training and evaluation dataset will be provided. 
-The goal of this task is to test their algorithms so as to classify not only if an image is real or synthetic, 
-but also if it is fully or partially manipulated. 
-In this case the task is to provide an additional score to discriminate fully generated data from locally manipulated ones.
+Final Competition
+The three highest scoring teams from the open competition will be selected
+and they can provide an additional submission.
 
+``More information on training set and test sets will be available on 25 June on this page and on the Piazza class.``
 
 ### Prize for Finalists
 
@@ -69,18 +66,20 @@ The three teams with highest performance in the open competition will be selecte
 
 * 25 July, 2022: Release of Training-Set
 * 8 August, 2022: Deadline of first submission
-* 15 August, 2022: Publication of the ranking of the first submission on testset1 
+* 15 August, 2022: Publication of the ranking of the first submission on first Testset 
 * 29 August, 2022: Deadline of second submission
-* 5 Sectember, 2022: Publication of the ranking of the second submission on testset1
-* 8 Sectember, 2022:  Publication of the ranking of the first two submissions on testset1
+* 5 Sectember, 2022: Publication of the ranking of the second submission on first Testset
+* 8 Sectember, 2022:  Publication of the ranking of the first two submissions on second Testset
 * 19 Sectember, 2022: Deadline of third submission
-* 26 Sectember, 2022: Final ranking on testset1 and testset2
+* 26 Sectember, 2022: Final ranking on both Testsets
 
 #### Additional Information
 
 General information and resources are [available on Piazza](https://piazza.com/configure-classes/summer2022/vipcup2022).
 
 To set up a free account, use the access code "vipcup2022" to join as a student the "VIPCUP 2022: IEEE Video and Image Processing Cup" class.
+
+
 
 ### Organizing Committee
 
