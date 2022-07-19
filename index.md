@@ -29,8 +29,9 @@ and the detector should work well also in this condition.
 
 Competitors are asked to work in the challenging scenario where it is not known the method used to generate synthetic data.
 More specifically the test data comprises: 
-i) both fully synthetic images and partially manipulated ones, 
-ii) generative models that include not only GANs, but also more recent diffusion-based models. 
+* both fully synthetic images and partially manipulated ones, 
+* generative models that include not only GANs, but also more recent diffusion-based models.
+
 Being able to discriminate synthetic images, fully and partially synthetic, 
 vs pristine ones can represent a step forward to the advancement of forensics tools.
 
@@ -39,7 +40,7 @@ and an invitation-only final competition. Eligible teams must submit their entri
 The three teams with the highest performance will be selected by September 26, 2022 and invited to join the final competition. 
 The final competition will be judged at ICIP 2022, which will be held on October 16-19, 2022.
 
-Open Competition - Testset 1
+#### Open Competition - Testset 1
 Part 1 of the open competition is designed to give teams a simplified version of the problem at hand to become familiar with the task. 
 Participants will be provided with a labeled training dataset of real and synthetic images. 
 Synthetic images can be fully or partially synthetic. 
@@ -47,12 +48,12 @@ Images will undergo JPEG compression at different quality levels and resizing pr
 Teams will be provided with PYTHON scripts to apply these operations to the training dataset. 
 Teams are requested to provide the executable code to the organizers in order to test the algorithms on the evaluation dataset.
 
-Open Competition - Testset 2
+#### Open Competition - Testset 2
 Part 2 of the competition is designed to address a more challenging task: synthetic image detection on unseen models, 
 i.e. synthetic data generated using architectures not present in training. The task remains the same as for Part 1. 
 Teams are requested to provide the executable code to the organizers in order to test the algorithms on the evaluation dataset.
 
-Final Competition
+#### Final Competition
 The three highest scoring teams from the open competition will be selected
 and they can provide an additional submission.
 
