@@ -60,7 +60,7 @@ Teams are requested to provide the executable code to the organizers in order to
 The three highest scoring teams from the open competition will be selected
 and they can provide an additional submission.
 
-``More information on training set and test sets will be available on 25 June on the page web and on the Piazza class.``
+``More information on training set and test sets will be available on 25 July on the page web and on the Piazza class.``
 
 ### Challenge Evaluation Criteria
 Results will be judged for Part 1 and Part 2 by means of balanced accuracy for the detection task.
@@ -78,9 +78,9 @@ The three teams with highest performance in the open competition will be selecte
 
 * 25 July, 2022: Release of data and submission format
 * 8 August, 2022: First submission deadline
-* 15 August, 2022: Publication of the ranking of the first submission on Test-set 1 
+* 15 August, 2022: Ranking publication of the first submission on Test-set 1 
 * 29 August, 2022: Second submission deadline
-* 8 September, 2022: Publication of the ranking of the first two submissions on Test-set 1 and Test-set 2
+* 8 September, 2022: Ranking publication the first and second submissions on Test-set 1 and Test-set 2
 * 15 September, 2022: Team registration deadline
 * 19 September, 2022: Third submission deadline
 * 26 September, 2022: Final ranking on both Test-sets
