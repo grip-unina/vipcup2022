@@ -35,6 +35,7 @@ Competitors are asked to work in the challenging scenario where it is not known 
 More specifically the test data comprises: 
 * both fully synthetic images and partially manipulated ones, 
 * generative models that include not only GANs, but also more recent diffusion-based models. 
+
 Being able to discriminate synthetic images, fully and partially synthetic, 
 vs pristine ones can represent a step forward to the advancement of forensics tools.
 
@@ -87,7 +88,7 @@ The three teams with highest performance in the open competition will be selecte
 
 #### Additional Information
 
-General information and resources are available on the [page web](https://grip-unina.github.io/vipcup2022/) and [Piazza class](https://piazza.com/configure-classes/summer2022/vipcup2022).
+General information and resources are available on the [page web](https://grip-unina.github.io/vipcup2022/) and [Piazza class](https://piazza.com/university_of_naples_federico_ii/summer2022/vipcup2022).
 
 To set up a free account, use the access code "vipcup2022" to join as a student the "VIPCUP 2022: IEEE Video and Image Processing Cup" class.
 
