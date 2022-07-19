@@ -20,3 +20,7 @@ Coming soon
 
 Coming soon
 
+#### Sponsor
+
+This competition is sponsored by the IEEE Signal Processing Society and SPS Information Forensics and Security Committee
+
