@@ -2,6 +2,8 @@ This year the VIP Cup competition @ICIP2022 is organized by University Federico 
 The aim is to distinguish real versus AI-based content in images.
 Teams are requested to design a strategy for synthetic image detection by relying on image processing and machine learning techniques.
 
+![Examples](fig.jpg "Examples")
+
 ### Background
 
 In recent years there have been astonishing advances in AI-based synthetic media generation. 
