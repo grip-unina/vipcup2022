@@ -40,22 +40,22 @@ Being able to discriminate synthetic images, fully and partially synthetic,
 vs pristine ones can represent a step forward to the advancement of forensics tools.
 
 The challenge will consist of two stages: an open competition that any eligible team can participate in, 
-and an invitation-only final competition. Eligible teams must submit their entries by September 19, 2022. 
-The three teams with the highest performance will be selected by September 26, 2022 and invited to join the final competition. 
-The final competition will be judged at ICIP 2022, which will be held on October 16-19, 2022.
+and an invitation-only final competition. Eligible teams must submit their entries by **September 5, 2022**. 
+The three teams with the highest performance will be selected by **September 10, 2022** and invited to join the final competition. 
+The final competition will be judged at ICIP 2022, which will be held on **October 16-19, 2022**.
 
-#### Open Competition: Test-set 1
+#### Open Competition: Part 1
 Part 1 of the open competition is designed to give teams a simplified version of the problem at hand to become familiar with the task. 
 Participants will be provided with a labeled training dataset of real and synthetic images. 
 Synthetic images can be fully or partially synthetic. 
 Images will undergo JPEG compression at different quality levels and resizing prior to compression.  
 Teams will be provided with PYTHON scripts to apply these operations to the training dataset. 
-Teams are requested to provide the executable code to the organizers in order to test the algorithms on the evaluation dataset.
+Teams are requested to provide the executable code to the organizers in order to test the algorithms on the evaluation dataset (Test-set 1).
 
-#### Open Competition: Test-set 2
+#### Open Competition: Part 2
 Part 2 of the competition is designed to address a more challenging task: synthetic image detection on unseen models, 
 i.e. synthetic data generated using architectures not present in training. The task remains the same as for Part 1. 
-Teams are requested to provide the executable code to the organizers in order to test the algorithms on the evaluation dataset.
+Teams are requested to provide the executable code to the organizers in order to test the algorithms on the evaluation dataset (Test-set 2).
 
 #### Final Competition
 The three highest scoring teams from the open competition will be selected
@@ -70,10 +70,21 @@ The final ranking score will be the weighted average between the accuracy obtain
      Score = ( 0.7 × Accuracy_Part_1) + ( 0.3 × Accuracy_Part_2)
 
 
+### Team Formation and Eligibility
+Each team participating should be composed of one faculty member or someone with a PhD degree employed by the university (the Supervisor), at most one graduate student (the Tutor), and at least three, but no more than ten undergraduate students.
+At least three of the undergraduate team members must hold either regular or student memberships of the IEEE Signal Processing Society.
+Undergraduate students who are in the first two years of their college studies, as well as high school students who are capable to contribute are welcome to participate in a team.
+A participant cannot be on more than one team. 
+
+
 ### Prize for Finalists
 
-The three teams with highest performance in the open competition will be selected as finalists and will be invited to participate in the final competition at ICIP 2022. The champion team will receive a grand prize of $5,000. The first and the second runner-up will receive a prize of $2,500 and $1,500, respectively, in addition to travel grants and complimentary conference registrations.
+The three teams with highest performance in the open competition will be selected as finalists and invited to participate in the final competition at ICIP 2022. The champion team will receive a grand prize of $5,000. The first and the second runner-up will receive a prize of $2,500 and $1,500, respectively, in addition to travel grants and complimentary conference registrations. 
+* Up to three student members from each finalist team will be provided travel support to attend the conference in-person. In-person attendance of the physical conference is required for reimbursement.
+* Complimentary conference registration for all team members.^
+* The finalist teams will also be invited to join the Conference Banquet and the SPS Student Job Fair, so that they can meet and talk to SPS leaders and global experts. Please note registration to the Conference Banquet and Student Job Fair is limited and based on availability.^
 
+^ These complimentary conference registrations cannot be used to cover any papers accepted by the conference. If you wish to receive complimentary registration and/or conference banquet access, you must email Jaqueline Rash, Jaqueline.rash@ieee.org, with this information once your team has been selected as a finalist.
 
 ### Timeline
 
