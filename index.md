@@ -68,6 +68,7 @@ and they can provide an additional submission.
 #### Training
 
 Teams may use data, other than the competition data, provided the team has the right and authority to use such external data for the purposes of the competition.
+The same holds for pre-trained models.
 **Data that can be used for training will be released on july 25 at 9pm CET.**
 
 ### Challenge Evaluation Criteria
