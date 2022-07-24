@@ -44,6 +44,10 @@ and an invitation-only final competition. Eligible teams must submit their entri
 The three teams with the highest performance will be selected by **September 10, 2022** and invited to join the final competition. 
 The final competition will be judged at ICIP 2022, which will be held on **October 16-19, 2022**.
 
+General information and resources are available on the [page web](https://grip-unina.github.io/vipcup2022/) and [Piazza class](https://piazza.com/university_of_naples_federico_ii/summer2022/vipcup2022).
+
+To set up a free account, use the access code "vipcup2022" to join as a student the "VIPCUP 2022: IEEE Video and Image Processing Cup" class.
+
 #### Open Competition: Part 1
 Part 1 of the open competition is designed to give teams a simplified version of the problem at hand to become familiar with the task. 
 Participants will be provided with a labeled training dataset of real and synthetic images. 
@@ -61,13 +65,23 @@ Teams are requested to provide the executable code to the organizers in order to
 The three highest scoring teams from the open competition will be selected
 and they can provide an additional submission.
 
-``More information on training set and test sets will be available on 25 July on the page web and on the Piazza class.``
+#### Training
+
+Teams may use data, other than the competition data, provided the team has the right and authority to use such external data for the purposes of the competition.
+Data that can be used for training will be released on 25 july at 20:00 CET.
 
 ### Challenge Evaluation Criteria
 Results will be judged for Part 1 and Part 2 by means of balanced accuracy for the detection task.
 The final ranking score will be the weighted average between the accuracy obtained in Part 1 and Part 2 computed as
 
      Score = ( 0.7 × Accuracy_Part_1) + ( 0.3 × Accuracy_Part_2)
+
+### Submission Information
+
+The evaluation datasets (Test-set 1 and Test-set 2) will not be provided. Teams are requested to provide the executable Python code to the organizers in order to test the algorithms on the evaluation datasets.
+The executable Python code will be executed inside a Docker container with a GPU of 16GB with a time limit of 30 minutes to elaborate 5000 images.
+Therefore, teams should sure that the code is compatible with the libraries present in the Docker image 'gcr.io/kaggle-gpu-images/python:v115'.
+The code has to contain the Python file "main.py" which having a input csv file with the list of test images has to produce an output csv file with a logit value for each test image. A logit value greater than zero indicates that the image is synthetic.
 
 
 ### Team Formation and Eligibility
@@ -96,13 +110,6 @@ The three teams with highest performance in the open competition will be selecte
 * 1 September, 2022: Team registration deadline
 * 5 September, 2022: Third submission deadline
 * 10 September, 2022: Finalists announced
-
-
-#### Additional Information
-
-General information and resources are available on the [page web](https://grip-unina.github.io/vipcup2022/) and [Piazza class](https://piazza.com/university_of_naples_federico_ii/summer2022/vipcup2022).
-
-To set up a free account, use the access code "vipcup2022" to join as a student the "VIPCUP 2022: IEEE Video and Image Processing Cup" class.
 
 
 ### Organizers
