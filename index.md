@@ -68,7 +68,7 @@ and they can provide an additional submission.
 #### Training
 
 Teams may use data, other than the competition data, provided the team has the right and authority to use such external data for the purposes of the competition.
-Data that can be used for training will be released on 25 july at 20:00 CET.
+Data that can be used for training will be released on 25 july at 8pm CET.
 
 ### Challenge Evaluation Criteria
 Results will be judged for Part 1 and Part 2 by means of balanced accuracy for the detection task.
