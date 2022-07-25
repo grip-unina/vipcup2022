@@ -60,7 +60,7 @@ The five techniques used for synthetic image generation (Test-set 1) are:
 4. GLIDE for inpainting and image generation from text (https://github.com/openai/glide-text2im )
 5. Taming Transformers  for unconditional image generation, class-conditional image generation and image generation from segmentation maps (MIT License: https://github.com/CompVis/taming-transformers )
 
-All the images of the test data are randomly cropped and resized to 200x200 pixels and then compressed using JPEG at different quality levels
+All the images of the test data are randomly cropped and resized to 200x200 pixels and then compressed using JPEG at different quality levels.
 Teams will be provided with PYTHON scripts to apply these operations to the training dataset. 
 
 #### Open Competition: Part 2
