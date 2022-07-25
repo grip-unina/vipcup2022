@@ -54,11 +54,11 @@ Synthetic images can be fully or partially synthetic.
 Teams are requested to provide the executable code to the organizers in order to test the algorithms on the evaluation dataset (Test-set 1).
 The synthetic images included in Test-set 1 are generated using five known techniques, while generated models used in Test-set 2 are unknown.
 The five techniques used for synthetic image generation (Test-set 1) are:
-1. StyleGAN2 (: https://github.com/NVlabs/stylegan2  )
-2. StyleGAN3 (NVIDIA Source Code License: https://github.com/NVlabs/stylegan3  )
+1. StyleGAN2 (https://github.com/NVlabs/stylegan2  )
+2. StyleGAN3 (https://github.com/NVlabs/stylegan3  )
 3. Inpainting with Gated Convolution (https://github.com/JiahuiYu/generative_inpainting ) 
 4. GLIDE for inpainting and image generation from text (https://github.com/openai/glide-text2im )
-5. Taming Transformers  for unconditional image generation, class-conditional image generation and image generation from segmentation maps (MIT License: https://github.com/CompVis/taming-transformers )
+5. Taming Transformers  for unconditional image generation, class-conditional image generation and image generation from segmentation maps (https://github.com/CompVis/taming-transformers )
 
 All the images of the test data are randomly cropped and resized to 200x200 pixels and then compressed using JPEG at different quality levels.
 Teams will be provided with PYTHON scripts to apply these operations to the training dataset. 
