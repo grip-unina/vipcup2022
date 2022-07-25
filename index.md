@@ -98,7 +98,7 @@ The final ranking score will be the weighted average between the accuracy obtain
 ### Submission Information
 
 The evaluation datasets (Test-set 1 and Test-set 2) will not be provided. Teams are requested to provide the executable Python code to the organizers in order to test the algorithms on the evaluation datasets.
-The executable Python code will be executed inside a Docker container with a GPU of 16GB with a time limit of 30 minutes to elaborate 5000 images.
+The executable Python code will be executed inside a Docker container with a GPU of 16GB with a time limit of 1 hour to elaborate 5000 images.
 Therefore, teams should sure that the code is compatible with the libraries present in the Docker image 'gcr.io/kaggle-gpu-images/python:v115'.
 The code has to contain the Python file "main.py" which having a input csv file with the list of test images has to produce an output csv file with a logit value for each test image. A logit value greater than zero indicates that the image is synthetic.
 
