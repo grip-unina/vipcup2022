@@ -50,11 +50,18 @@ To set up a free account, use the access code "vipcup2022" to join as a student 
 
 #### Open Competition: Part 1
 Part 1 of the open competition is designed to give teams a simplified version of the problem at hand to become familiar with the task. 
-Participants will be provided with a labeled training dataset of real and synthetic images. 
 Synthetic images can be fully or partially synthetic. 
-Images will undergo JPEG compression at different quality levels and resizing prior to compression.  
-Teams will be provided with PYTHON scripts to apply these operations to the training dataset. 
 Teams are requested to provide the executable code to the organizers in order to test the algorithms on the evaluation dataset (Test-set 1).
+The synthetic images included in Test-set 1 are generated using five known techniques, while generated models used in Test-set 2 are unknown.
+The five techniques used for synthetic image generation (Test-set 1) are:
+1. StyleGAN2 (: https://github.com/NVlabs/stylegan2  )
+2. StyleGAN3 (NVIDIA Source Code License: https://github.com/NVlabs/stylegan3  )
+3. Inpainting with Gated Convolution (https://github.com/JiahuiYu/generative_inpainting ) 
+4. GLIDE for inpainting and image generation from text (https://github.com/openai/glide-text2im )
+5. Taming Transformers  for unconditional image generation, class-conditional image generation and image generation from segmentation maps (MIT License: https://github.com/CompVis/taming-transformers )
+
+All the images of the test data are randomly cropped and resized to 200x200 pixels and then compressed using JPEG at different quality levels
+Teams will be provided with PYTHON scripts to apply these operations to the training dataset. 
 
 #### Open Competition: Part 2
 Part 2 of the competition is designed to address a more challenging task: synthetic image detection on unseen models, 
@@ -66,10 +73,21 @@ The three highest scoring teams from the open competition will be selected
 and they can provide an additional submission.
 
 #### Training
+Synthetic training images can be download from:
+1. StyleGAN2 (https://drive.google.com/drive/folders/1Sak157_DLX84ytqHHqZaH_59HoEWzfB7 )
+2. StyleGAN3 (https://nvlabs-fi-cdn.nvidia.com/stylegan3/images/ )
+3. Inpainting with Gated Convolution (2000 images available on piazza)
+4. GLIDE for inpainting and image generation from text (2000 images available on piazza)
+5. Taming Transformers for unconditional image generation (ffhq_k300_p1.0_fid9.6.zip in https://k00.fr/j626x093 ),  class-conditional image generation (cin_k600_p1.0_a0.05_fid5.20.zip in https://k00.fr/j626x093 ) and image generation from segmentation maps (https://heibox.uni-heidelberg.de/f/a395a9be612f4a7a8054/  )
 
-Teams may use data, other than the competition data, provided the team has the right and authority to use such external data for the purposes of the competition.
+For real training images, teams can rely on public datasets, such as:
+1. COCO2017 https://cocodataset.org/ 
+3. LSUN https://www.yf.io/p/lsun  
+4. ImageNet https://www.image-net.org/
+5. FFHQ https://github.com/NVlabs/ffhq-dataset
+
+Teams may use data, other than the competition data, provided the team has the right and authority to use such external data for the purposes of the competition. 
 The same holds for pre-trained models.
-**Data that can be used for training will be released on july 25 at 9pm CET.**
 
 ### Challenge Evaluation Criteria
 Results will be judged for Part 1 and Part 2 by means of balanced accuracy for the detection task.
