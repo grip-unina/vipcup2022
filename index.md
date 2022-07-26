@@ -73,19 +73,8 @@ The three highest scoring teams from the open competition will be selected
 and they can provide an additional submission.
 
 #### Training
-Synthetic training images can be download from the links available on piazza:
-1. StyleGAN2
-2. StyleGAN3
-3. Inpainting with Gated Convolution, 2000 images available
-4. GLIDE for inpainting and image generation from text, 2000 images available
-5. Taming Transformers for unconditional image generation,  class-conditional image generation and image generation from segmentation maps
-
-For real training images, teams can rely on public datasets, such as:
-1. COCO2017 https://cocodataset.org/ 
-3. LSUN https://www.yf.io/p/lsun  
-4. ImageNet https://www.image-net.org/
-5. FFHQ https://github.com/NVlabs/ffhq-dataset
-
+Synthetic training images can be download from the links available on piazza: StyleGAN2, StyleGAN3, Inpainting with Gated Convolution, GLIDE, Taming Transformers.
+For real training images, teams can rely on public datasets, such as COCO, LSUN, ImageNet,FFHQ.
 Teams may use data, other than the competition data, provided the team has the right and authority to use such external data for the purposes of the competition. 
 The same holds for pre-trained models.
 
