@@ -73,12 +73,12 @@ The three highest scoring teams from the open competition will be selected
 and they can provide an additional submission.
 
 #### Training
-Synthetic training images can be download from:
-1. StyleGAN2 (https://drive.google.com/drive/folders/1Sak157_DLX84ytqHHqZaH_59HoEWzfB7 )
-2. StyleGAN3 (https://nvlabs-fi-cdn.nvidia.com/stylegan3/images/ )
-3. Inpainting with Gated Convolution (2000 images available on piazza)
-4. GLIDE for inpainting and image generation from text (2000 images available on piazza)
-5. Taming Transformers for unconditional image generation (ffhq_k300_p1.0_fid9.6.zip in https://k00.fr/j626x093 ),  class-conditional image generation (cin_k600_p1.0_a0.05_fid5.20.zip in https://k00.fr/j626x093 ) and image generation from segmentation maps (https://heibox.uni-heidelberg.de/f/a395a9be612f4a7a8054/  )
+Synthetic training images can be download from the links available on piazza:
+1. StyleGAN2
+2. StyleGAN3
+3. Inpainting with Gated Convolution, 2000 images available
+4. GLIDE for inpainting and image generation from text, 2000 images available
+5. Taming Transformers for unconditional image generation,  class-conditional image generation and image generation from segmentation maps
 
 For real training images, teams can rely on public datasets, such as:
 1. COCO2017 https://cocodataset.org/ 
