@@ -74,7 +74,8 @@ and they can provide an additional submission.
 
 #### Training
 Synthetic training images can be download from the links available on piazza: StyleGAN2, StyleGAN3, Inpainting with Gated Convolution, GLIDE, Taming Transformers.
-For real training images, teams can rely on public datasets, such as COCO, LSUN, ImageNet,FFHQ.
+For real training images, teams can rely on public datasets, such as COCO, LSUN, ImageNet, FFHQ.
+
 Teams may use data, other than the competition data, provided the team has the right and authority to use such external data for the purposes of the competition. 
 The same holds for pre-trained models.
 
