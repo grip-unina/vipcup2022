@@ -48,6 +48,8 @@ General information and resources are available on the [page web](https://grip-u
 
 To set up a free account, use the access code "vipcup2022" to join as a student the "VIPCUP 2022: IEEE Video and Image Processing Cup" class.
 
+```IMPORTANT: Registeration is needed at https://www2.securecms.com/VIPCup/VIPRegistration.asp```
+
 #### Open Competition: Part 1
 Part 1 of the open competition is designed to give teams a simplified version of the problem at hand to become familiar with the task. 
 Synthetic images can be fully or partially synthetic. 
