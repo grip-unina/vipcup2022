@@ -127,8 +127,7 @@ The three teams with highest performance in the open competition will be selecte
 
 The challenge is organized as a joint effort between the Image Processing Research Group (GRIP) of the University Federico II of Naples (Italy) and NVIDIA (USA).
 
-The GRIP team is represented by Prof. Luisa Verdoliva (Associate Professor), Dr. Davide Cozzolino (Assistant Professor), 
-Fabrizio Guillaro (Ph.D. Student) and Riccardo Corvi (Research Fellow). NVIDIA is represented by Dr. Koki Nagano.
+The GRIP team is represented by Prof. Luisa Verdoliva (Associate Professor), Dr. Davide Cozzolino (Assistant Professor), and Riccardo Corvi (Research Fellow). NVIDIA is represented by Dr. Koki Nagano.
 
 ### Sponsor
 
