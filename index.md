@@ -96,9 +96,12 @@ The code has to contain the Python file "main.py" which having a input csv file 
 
 
 ### Team Formation and Eligibility
-Each team participating should be composed of one faculty member or someone with a PhD degree employed by the university (the Supervisor), at most one graduate student (the Tutor), and at least three, but no more than ten undergraduate students.
+Each team participating should be composed of:
+- One faculty member (the Supervisor); Someone with a PhD degree employed by the university; Postdocs and research associates are not considered as faculty members.
+- At most one graduate student (the Tutor); A graduate student is a student having earned at least a 4-year University degree at the time of submission.
+- At least three, but no more than ten undergraduate students; An undergraduate student is a student without a 4-year degree.
+
 At least three of the undergraduate team members must hold either regular or student memberships of the IEEE Signal Processing Society.
-Undergraduate students who are in the first two years of their college studies, as well as high school students who are capable to contribute are welcome to participate in a team.
 A participant cannot be on more than one team. 
 
 
@@ -106,10 +109,10 @@ A participant cannot be on more than one team.
 
 The three teams with highest performance in the open competition will be selected as finalists and invited to participate in the final competition at ICIP 2022. The champion team will receive a grand prize of $5,000. The first and the second runner-up will receive a prize of $2,500 and $1,500, respectively, in addition to travel grants and complimentary conference registrations. 
 * Up to three student members from each finalist team will be provided travel support to attend the conference in-person. In-person attendance of the physical conference is required for reimbursement.
-* Complimentary conference registration for all team members.^
-* The finalist teams will also be invited to join the Conference Banquet and the SPS Student Job Fair, so that they can meet and talk to SPS leaders and global experts. Please note registration to the Conference Banquet and Student Job Fair is limited and based on availability.^
+* Complimentary conference registration for all team members.
+* The finalist teams will also be invited to join the Conference Banquet and the SPS Student Job Fair, so that they can meet and talk to SPS leaders and global experts. Please note registration to the Conference Banquet and Student Job Fair is limited and based on availability.
 
-^ These complimentary conference registrations cannot be used to cover any papers accepted by the conference. If you wish to receive complimentary registration and/or conference banquet access, you must email Jaqueline Rash, Jaqueline.rash@ieee.org, with this information once your team has been selected as a finalist.
+These complimentary conference registrations cannot be used to cover any papers accepted by the conference. If you wish to receive complimentary registration and/or conference banquet access, you must email Jaqueline Rash, Jaqueline.rash@ieee.org, with this information once your team has been selected as a finalist.
 
 ### Timeline
 
