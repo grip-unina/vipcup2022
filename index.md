@@ -117,12 +117,14 @@ These complimentary conference registrations cannot be used to cover any papers 
 ### Timeline
 
 * 25 July, 2022: Release of data and submission information
-* 8 August, 2022: Team registration deadline
 * 8 August, 2022: First submission deadline
+* <ins>11 August, 2022: Team registration deadline</ins>
 * 13 August, 2022: Ranking publication of the first submission on Test-set 1 
-* 22 August, 2022: Second submission deadline
-* 27 August, 2022: Ranking publication the first and second submissions on both Test-sets
-* 5 September, 2022: Third submission deadline
+* 15 August, 2022: Second submission deadline
+* 20 August, 2022: Ranking publication of the second submission on Test-set 1 
+* 22 August, 2022: Third submission deadline
+* 27 August, 2022: Ranking publication the three submissions on both Test-sets
+* 5 September, 2022: Last submission deadline
 * 10 September, 2022: Finalists announced
 
 
