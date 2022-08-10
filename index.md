@@ -48,7 +48,7 @@ General information and resources are available on the [page web](https://grip-u
 
 To set up a free account, use the access code "vipcup2022" to join as a student the "VIPCUP 2022: IEEE Video and Image Processing Cup" class.
 
-<b>IMPORTANT:</b> Registration is needed at https://www2.securecms.com/VIPCup/VIPRegistration.asp within August 8.
+<b>IMPORTANT:</b> Registration is needed at https://www2.securecms.com/VIPCup/VIPRegistration.asp within <ins>August 11</ins>.
 
 #### Open Competition: Part 1
 Part 1 of the open competition is designed to give teams a simplified version of the problem at hand to become familiar with the task. 
