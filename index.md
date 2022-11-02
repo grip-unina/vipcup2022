@@ -48,7 +48,7 @@ General information and resources are available on the [page web](https://grip-u
 
 To set up a free account, use the access code "vipcup2022" to join as a student the "VIPCUP 2022: IEEE Video and Image Processing Cup" class.
 
-<b>IMPORTANT:</b> Registration is needed at https://www2.securecms.com/VIPCup/VIPRegistration.asp within <ins>August 11</ins>.
+Registration is needed at https://www2.securecms.com/VIPCup/VIPRegistration.asp within <ins>August 11</ins>.
 
 #### Open Competition: Part 1
 Part 1 of the open competition is designed to give teams a simplified version of the problem at hand to become familiar with the task. 
@@ -62,6 +62,16 @@ The five techniques used for synthetic image generation (Test-set 1) are:
 4. GLIDE for inpainting and image generation from text (https://github.com/openai/glide-text2im )
 5. Taming Transformers  for unconditional image generation, class-conditional image generation and image generation from segmentation maps (https://github.com/CompVis/taming-transformers )
 
+##### Test-Set 1
+
+  *  Real Images from the four datasets: FFHQ, Imagenet, COCO, LSUN; 625 images from each dataset.
+  *  Fake Images generated using five known techniques:
+      *  500 StyleGAN2 images: a noise to image GAN generator. 
+      *  500 StyleGAN3 images: a noise to image GAN generator.
+      *  500 GLIDE images: a guided diffusion model for inpainting and text to image generation.
+      *  500 TamingTransformers images: a combinetion of CNNs with transformers for image generation.
+      *  500 Inpainted images with Gated Convolution: generative inpainting architecture which uses Contextual Attention and Gated Convolution.
+      
 All the images of the test data are randomly cropped and resized to 200x200 pixels and then compressed using JPEG at different quality levels.
 Teams will be provided with PYTHON scripts to apply these operations to the training dataset. 
 
@@ -70,9 +80,28 @@ Part 2 of the competition is designed to address a more challenging task: synthe
 i.e. synthetic data generated using architectures not present in training. The task remains the same as for Part 1. 
 Teams are requested to provide the executable code to the organizers in order to test the algorithms on the evaluation dataset (Test-set 2).
 
+##### Test-Set 2
+
+  *  Real Images from the four datasets: VISION, RAISE, FFHQ, COCO; 625 images from each dataset.
+  * Fake Images generated using unknown techniques: 
+      *  500 BigGAN images: a GAN architecture that generates images from noise.​
+      *  500 Guided Diffusion images: a diffusion model for image generation.
+      *  500 LatentDiffusion images: a latent diffusion strategy for high-resolution image synthesis.
+      *  500 Dalle MINI images: an architecture which generates images from text.
+      * 500 LaMa images: a large mask inpainting technique with Fourier Convolutions.
+
 #### Final Competition
 The three highest scoring teams from the open competition will be selected
-and they can provide an additional submission.
+and they can provide an additional submission evaluated also on Test-Set 3.
+
+##### Test Set 3
+
+  *  Real Images from the four datasets: VISION, UCID, Imagenet, COCO; 500 images from each dataset.
+  * Fake Images:
+      *  500 RelGAN images: Image-to-Image translation architecture via relative attributes.
+      * 500 EG3D images: Efficient Geometry-aware 3D Generative Adversarial Networks.
+      * 500 Stable Diffusion images: a latent text-to-image diffusion model.
+      * 500 ZITS images: Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding.
 
 #### Training
 Synthetic training images can be download from the links available on piazza: StyleGAN2, StyleGAN3, Inpainting with Gated Convolution, GLIDE, Taming Transformers.
@@ -104,6 +133,22 @@ Each team participating should be composed of:
 At least three of the undergraduate team members must hold either regular or student memberships of the IEEE Signal Processing Society.
 A participant cannot be on more than one team. 
 
+### Participation 
+
+Several students organized into teams registered for the VIP Cup 2022: 
+* 82 enrolled persons (i.e., students, tutors, and advisors) on the Piazza forum
+* 26 teams registered through the Secure CMS platform.
+* 13 teams have submitted at least one time.
+ 
+The eligible teams came from 10 different countries from all over the world. 
+
+#### Final results
+
+| Team Names            |  Time  |  Test Set 1 | Test Set 2 | Test Set 3 |
+| ----------------------|:------:|:-----------:|:----------:|:----------:|
+| Megatron              | 91 min |   96.04%    |   83.00%   |   90.60%   |
+| FAU Erlangen-Nürnberg | 29 min |   87.14%    |   81.74%   |   75.52%   |
+| Sherlock              | 74 min |   87.70%    |   77.52%   |   73.45%   |
 
 ### Prize for Finalists
 
@@ -118,7 +163,7 @@ These complimentary conference registrations cannot be used to cover any papers 
 
 * 25 July, 2022: Release of data and submission information
 * 8 August, 2022: First submission deadline
-* <ins>11 August, 2022: Team registration deadline</ins>
+* 11 August, 2022: Team registration deadline
 * 13 August, 2022: Ranking publication of the first submission on Test-set 1 
 * 15 August, 2022: Second submission deadline
 * 20 August, 2022: Ranking publication of the second submission on Test-set 1 
